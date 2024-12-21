@@ -12,8 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* 2016-2020: **Engineering school - Computer engineering and mathematics**
+* 2019-2020: **Master in Mathematical Modelling, Numerical Analysis and Simulation.** _Sorbonne Université / École Nationale des Ponts et Chaussées._ France.
+  * Main topics: Theoretical and numerical study of partial differential equations; Numerical discretization and error analysis; Modelling and simulation in life sciences. 
+* 2016-2020: **Engineering school - Computer Engineering and Mathematics.** _École Nationale des Ponts et Chaussées._ France.
+  * Main topics: Theoretical and numerical study of partial differential equations; Optimization; Statistics; Machine Learning; Advanced computer science. 
 
 Work experience
 ======

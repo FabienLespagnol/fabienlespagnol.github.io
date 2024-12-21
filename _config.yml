@@ -21,7 +21,7 @@ repository               : "FabienLespagnol/fabienlespagnol.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo_webpage.jpg"
   name             : "Fabien Lespagnol"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher at Institut Montpellierain Alexander Grothendieck"

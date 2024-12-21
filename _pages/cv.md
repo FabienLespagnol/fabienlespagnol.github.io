@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2020-2024: **PhD in Applied Mathematics.** _Politecnico di Milano / Sorbonne Université / Inria Paris._ France / Italie
 * 2019-2020: **Master in Mathematical Modelling, Numerical Analysis and Simulation.** _Sorbonne Université / École Nationale des Ponts et Chaussées._ France.
   * Main topics: Theoretical and numerical study of partial differential equations; Numerical discretization and error analysis; Modelling and simulation in life sciences. 
 * 2016-2020: **Engineering school - Computer Engineering and Mathematics.** _École Nationale des Ponts et Chaussées._ France.
@@ -19,29 +19,8 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Post-doctorate on homogenization and Hamilton’s principle for multiphase flows** 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -60,7 +39,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

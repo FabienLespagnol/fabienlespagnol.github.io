@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal webpage of Fabien Lespagnol"
+title                    : "Personal webpage / Fabien Lespagnol"
 title_separator          : "-"
 name                     : &name "Fabien Lespagnol"
 description              : &description "Postdoctoral Researcher"

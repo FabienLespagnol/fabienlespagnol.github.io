@@ -19,8 +19,10 @@ Education
 
 Work experience
 ======
-**Post-doctorate on homogenization and Hamilton’s principle for multiphase flows** 
-
+2024-now: **Post-doctorate on homogenization and Hamilton’s principle for multiphase flows** 
+2020: **Intern.** _Inria Paris / COMMEDIA TEAM._ France. 
+2019: **Intern.** _Universita degli studi di Trento._Italy.  
+2018: **Intern.** _CEA._ France. 
 
 Publications
 ======

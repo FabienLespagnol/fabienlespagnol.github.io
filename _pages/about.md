@@ -21,7 +21,7 @@ I completed my PhD under a joint supervision program between Politecnico di Mila
 Contact information
 -
 
-Office:
+<u>Office:</u>
 
 Campus Triolet
 

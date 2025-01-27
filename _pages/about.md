@@ -22,12 +22,17 @@ Contact information
 -
 
 Office:
+
 Campus Triolet
+
 Bat. 9 , 121
 
 Adress:
+
 IMAG, Université de Montpellier
+
 Place Eugène Bataillon 34095 Montpellier Cedex 5
 
 Mail:
+
 fabien(dot)lespagnol(at)umontpellier.fr                             

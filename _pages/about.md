@@ -1,14 +1,15 @@
 ---
 permalink: /
-title: "Fabien Lespagnol"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Fabien Lespagnol
+-
 Postdoctoral researcher
-
 Institut Montpellier Alexander Grothendieck
 
 About me
@@ -22,17 +23,12 @@ Contact information
 -
 
 <u>Office:</u>
-
 Campus Triolet
-
 Bat. 9 , 121
 
-Adress:
-
+<u>Adress:</u>
 IMAG, Université de Montpellier
-
 Place Eugène Bataillon 34095 Montpellier Cedex 5
 
-Mail:
-
+<u>Mail:</u>
 fabien(dot)lespagnol(at)umontpellier.fr                             

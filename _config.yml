@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher at Institut Montpellierain Alexander Grothendieck"
   location         : "Montpellier"
-  employer         : "Université de Montpellier"
-  uri              : # URL
+  employer         : "Institut Montpelliérain Alexander Grothendieck"
+  uri              : "https://imag.umontpellier.fr/"
   email            : "fabien.lespagnol_at_umontpellier.fr" 
 
   # Academic websites

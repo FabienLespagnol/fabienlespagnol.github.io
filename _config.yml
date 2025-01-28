@@ -24,10 +24,10 @@ author:
   avatar           : "photo_webpage.jpg"
   name             : "Fabien Lespagnol"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher at Institut Montpellierain Alexander Grothendieck"
+  bio              : "Postdoctoral researcher at Institut Montpellierain Alexander Grothendieck"
   location         : "Montpellier"
   employer         : "Institut Montpelliérain Alexander Grothendieck"
-  uri              : "https://imag.umontpellier.fr/"
+  uri              : # URL
   email            : "fabien.lespagnol@umontpellier.fr" 
 
   # Academic websites

@@ -9,7 +9,7 @@ redirect_from:
 
 Fabien Lespagnol
 -
-Postdoctoral researcher
+Postdoctoral researcher  
 Institut Montpellier Alexander Grothendieck
 
 About me
@@ -22,13 +22,13 @@ I completed my PhD under a joint supervision program between Politecnico di Mila
 Contact information
 -
 
-<u>Office:</u>
-Campus Triolet
+<u>Office:</u>  
+Campus Triolet  
 Bat. 9 , 121
 
-<u>Adress:</u>
-IMAG, Université de Montpellier
+<u>Adress:</u>  
+IMAG, Université de Montpellier  
 Place Eugène Bataillon 34095 Montpellier Cedex 5
 
-<u>Mail:</u>
+<u>Mail:</u>  
 fabien(dot)lespagnol(at)umontpellier.fr                             

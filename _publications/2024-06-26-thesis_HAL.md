@@ -7,5 +7,5 @@ excerpt: 'My PhD dissertation aims to develop a new modelling and computational 
 date: 2024-06-26
 venue: 'HAL'
 slidesurl: 'https://theses.hal.science/THESES-SU/tel-04660387'
-citation: 'Lespagnol F. (2024). &quot;A new computational approach for fluid-structure interaction of slender bodies immersed in three-dimensional flows. &quot; <i>Hal</i>. 1(2).'
+citation: 'Lespagnol F. (2024). &quot;A new computational approach for fluid-structure interaction of slender bodies immersed in three-dimensional flows. &quot; <i>Hal.</i>'
 ---

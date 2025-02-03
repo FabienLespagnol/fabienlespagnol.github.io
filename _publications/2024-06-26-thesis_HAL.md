@@ -1,6 +1,6 @@
 ---
 title: "A New Computational Approach for Fluid-Structure Interaction of Slender Bodies Immersed in Three-Dimensional Flows"
-collection: thesis
+collection: publications
 category: manuscript
 permalink: /publication/2024-06-26-thesis_HAL
 excerpt: 'My PhD dissertation aims to develop a new modelling and computational approach for the simulation of slender bodies immersed in three dimensional flows.'

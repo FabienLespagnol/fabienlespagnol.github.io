@@ -9,13 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* 2020-2024: **PhD in Applied Mathematics.** _Politecnico di Milano / Sorbonne Université / Inria Paris._ France / Italie
-* 2019-2020: **Master in Mathematical Modelling, Numerical Analysis and Simulation.** _Sorbonne Université / École Nationale des Ponts et Chaussées._ France.
-  * Main topics: Theoretical and numerical study of partial differential equations; Numerical discretization and error analysis; Modelling and simulation in life sciences. 
-* 2016-2020: **Engineering school - Computer Engineering and Mathematics.** _École Nationale des Ponts et Chaussées._ France.
-  * Main topics: Theoretical and numerical study of partial differential equations; Optimization; Statistics; Machine Learning; Advanced computer science. 
+# Education
+
+### PhD in Applied Mathematics
+**Politecnico di Milano / Sorbonne Université / Inria Paris** — *France / Italy*  
+**2020 – 2024**  
+- Joint doctoral program in applied mathematics with a focus on modeling and simulation.  
+- Research areas: numerical analysis, computational methods, and partial differential equations (PDEs).  
+
+### Master’s in Mathematical Modelling, Numerical Analysis, and Simulation
+**Sorbonne Université / École Nationale des Ponts et Chaussées** — *France*  
+**2019 – 2020**  
+- Key topics:  
+  - Theoretical and numerical study of PDEs  
+  - Numerical discretization and error analysis  
+  - Modeling and simulation applications in life sciences  
+
+### Engineering Degree — Computer Engineering and Mathematics
+**École Nationale des Ponts et Chaussées** — *France*  
+**2016 – 2020**  
+- Key topics:  
+  - Theoretical and numerical study of PDEs  
+  - Optimization and statistics  
+  - Machine learning and advanced computer science  
 
 Work experience
 ======

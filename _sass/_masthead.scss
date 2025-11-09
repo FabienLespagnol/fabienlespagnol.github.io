@@ -4,8 +4,8 @@
 
 .masthead {
   position: fixed;
-  background: white;
-  border-bottom: 1px solid $border-color;
+  background: $instagram-color;
+  border-bottom: 1px solid $instagram-color;
   height: $masthead-height;
   top: 0;
   width: 100%;
@@ -21,13 +21,14 @@
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
-
+    
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
 
     nav {
       z-index: 10;
+      background: $instagram-color;
     }
 
     a {
@@ -37,7 +38,6 @@
 }
 
 .masthead__menu {
-
   ul {
     margin: 0;
     padding: 0;
@@ -50,7 +50,8 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-
+  background: $instagram-color;
+  
   &--lg {
     padding-right: 2em;
     font-weight: 700;

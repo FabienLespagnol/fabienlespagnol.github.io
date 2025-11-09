@@ -1,89 +1,89 @@
-/* ==========================================================================
-   NAVIGATION
-   ========================================================================== */
+	/* ==========================================================================
+	   NAVIGATION
+	   ========================================================================== */
 
-/*
-   Breadcrumb navigation links
-   ========================================================================== */
+	/*
+	   Breadcrumb navigation links
+	   ========================================================================== */
 
-.breadcrumbs {
-  @include container;
-  @include clearfix;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-left: 2em;
-  padding-right: 2em;
-  font-family: $sans-serif;
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.30s;
-          animation-delay: 0.30s;
+	.breadcrumbs {
+	  @include container;
+	  @include clearfix;
+	  margin-top: 0;
+	  margin-bottom: 0;
+	  padding-left: 2em;
+	  padding-right: 2em;
+	  font-family: $sans-serif;
+	  -webkit-animation: intro 0.3s both;
+		  animation: intro 0.3s both;
+	  -webkit-animation-delay: 0.30s;
+		  animation-delay: 0.30s;
 
-  @include breakpoint($large) {
-    padding-left: 1em;
-    padding-right: 1em;
-  }
+	  @include breakpoint($large) {
+	    padding-left: 1em;
+	    padding-right: 1em;
+	  }
 
-  @include breakpoint($x-large) {
-    max-width: $x-large;
-  }
+	  @include breakpoint($x-large) {
+	    max-width: $x-large;
+	  }
 
-  ol {
-    padding: 0;
-    list-style: none;
-    font-size: $type-size-6;
+	  ol {
+	    padding: 0;
+	    list-style: none;
+	    font-size: $type-size-6;
 
-    @include breakpoint($large) {
-      @include span(10 of 12 last);
-    }
+	    @include breakpoint($large) {
+	      @include span(10 of 12 last);
+	    }
 
-    @include breakpoint($x-large) {
-      @include prefix(0.5 of 12);
-    }
-  }
+	    @include breakpoint($x-large) {
+	      @include prefix(0.5 of 12);
+	    }
+	  }
 
-  li {
-    display: inline;
-  }
+	  li {
+	    display: inline;
+	  }
 
-  .current {
-    font-weight: bold;
-  }
-}
+	  .current {
+	    font-weight: bold;
+	  }
+	}
 
 
-/*
-   Post pagination navigation links
-   ========================================================================== */
+	/*
+	   Post pagination navigation links
+	   ========================================================================== */
 
-.pagination {
-  @include full();
-  @include clearfix();
-  margin-top: 1em;
-  padding-top: 1em;
+	.pagination {
+	  @include full();
+	  @include clearfix();
+	  margin-top: 1em;
+	  padding-top: 1em;
 
-  ul {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-    font-family: $sans-serif;
-  }
+	  ul {
+	    margin: 0;
+	    padding: 0;
+	    list-style-type: none;
+	    font-family: $sans-serif;
+	  }
 
-  li {
-    display: block;
-    float: left;
-    margin-left: -1px;
+	  li {
+	    display: block;
+	    float: left;
+	    margin-left: -1px;
 
-    a {
-      margin-bottom: 0.25em;
-      padding: 0.5em 1em;
-      font-family: $sans-serif;
-      font-size: 14px;
-      font-weight: bold;
-      line-height: 1.5;
-      text-align: center;
-      text-decoration: none;
-      color: mix(#fff, $gray, 25%);
+	    a {
+	      margin-bottom: 0.25em;
+	      padding: 0.5em 1em;
+	      font-family: $sans-serif;
+	      font-size: 14px;
+	      font-weight: bold;
+	      line-height: 1.5;
+	      text-align: center;
+	      text-decoration: none;
+	      color: mix(#fff, $gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -373,7 +373,7 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: $gray;
+  color: $black;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;

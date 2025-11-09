@@ -6,12 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Fabien Lespagnol
--
-Postdoctoral researcher  
-Institut Montpellier Alexander Grothendieck
-
 About me
 -
 

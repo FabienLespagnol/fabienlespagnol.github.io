@@ -12,7 +12,9 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  background: $instagram-color;
 
+ 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
     overflow-y: auto;               // Add scrollbar if the sidebar is too long
@@ -116,7 +118,7 @@
 }
 
 .author__name {
-  margin: 0;
+  margin: 0px;
 
   @include breakpoint($large) {
     margin-top: 10px;

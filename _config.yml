@@ -1,87 +1,89 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+        # Welcome to Jekyll!
+        #
+        # This config file is meant for settings that affect your entire site, values
+        # which you are expected to set up once and rarely need to edit after that.
+        # For technical reasons, this file is *NOT* reloaded automatically when you use
+        # `jekyll serve -l -H localhost`. If you change this file, please restart the 
+        # server process.
 
-# Basic Site Settings
-locale                   : "en-US"
-title                    : "Personal webpage / Fabien Lespagnol"
-title_separator          : "-"
-name                     : &name "Fabien Lespagnol"
-description              : &description "Postdoctoral Researcher"
-url                      : https://fabienlespagnol.github.io 
-baseurl                  : ""
-repository               : "FabienLespagnol/fabienlespagnol.github.io"
+        # Basic Site Settings
+        locale                   : "en-US"
+        title                    : "Personal webpage / Fabien Lespagnol"
+        title_separator          : "-"
+        name                     : &name "Fabien Lespagnol"
+        description              : &description "Postdoctoral Researcher"
+        url                      : https://fabienlespagnol.github.io 
+        baseurl                  : ""
+        repository               : "FabienLespagnol/fabienlespagnol.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  avatar           : "photo_webpage.jpg"
-  name             : "Fabien Lespagnol"
-  pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher at Institut Montpellierain Alexander Grothendieck"
-  location         : "Montpellier"
-  employer         : "IMAG"
-  uri              : # URL
-  email            : "fabien.lespagnol@umontpellier.fr" 
+        # Site Author - The following control what appear as part of the author content on the side bar.
+        #               If a field is blank the icon and link will not appear, otherwise it will be shown.
+        #               Additional customization can be done by editing /_includes/author-profile.html
+        author:
+          # Biographic information
+          avatar           : "photo_webpage.jpg"
+          name             : "Fabien Lespagnol"
+          pronouns         : # example: "he/his"  
+          bio              : "Postdoctoral researcher at Institut Montpellierain Alexander Grothendieck"
+          location         : "Montpellier"
+          employer         : "IMAG/INRIA"
+          uri              : # URL
+          email            : "fabien.lespagnol@umontpellier.fr" 
 
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.fr/citations?user=F76-Y2wAAAAJ&hl=fr&oi=ao"
-  impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0002-2251-8559"
-  semantic         : # URL
-  pubmed           : # URL
-  researchgate     : # URL
-  scopus           : # URL
+          # Academic websites
+          arxiv            : # URL - Update with the correct link to your profile
+          googlescholar    : "https://scholar.google.fr/citations?user=F76-Y2wAAAAJ&hl=fr&oi=ao"
+          impactstory      : # URL
+          orcid            : "https://orcid.org/0009-0002-2251-8559"
+          semantic         : # URL
+          pubmed           : # URL
+          researchgate     : # URL
+          scopus           : # URL
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : # Username
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+          # Repositories and software development
+          bitbucket        : # Username - Update with your username on the site
+          codepen          : # Username
+          dribbble         : # Username
+          github           : # Username
+          kaggle           : # Username  
+          stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  # Social media
-  bluesky          : # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+          # Social media
+          bluesky          : # Replace this with you Bluesky username
+          facebook         : # Username
+          flickr           : # Username
+          foursquare       : # Username
+          goodreads        : # Username
+          google_plus      : # Username
+          keybase          : # Username
+          instagram        : # Username
+          lastfm           : # Username
+          linkedin         : # Username
+          mastodon         : # URL
+          medium           : # URL
+          pinterest        : # Username
+          soundcloud       : # Username
+          steam            : # Username
+          telegram         : # URL
+          tumblr           : # Username
+          twitter          : # Username for X / Twitter
+          vine             : # Username
+          weibo            : # Username
+          wikipedia        : # Username
+          xing             : # Username
+          youtube          : # Username
+          zhihu            : # Username
 
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+        # Publication Category - The following the list of publication categories and their headings
+        publication_category:
+          books:
+            title: 'Books'
+         manuscripts:
+            title: 'Journal Articles'    
+         thesis:
+            title: 'Thesis'    
+         conferences:
+            title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

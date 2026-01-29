@@ -60,6 +60,8 @@
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Preprint/Open Access</a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }}</p>
+    {% elsif post.paperurl and post.slidesurl %}
+      <p><a href="{{ post.paperurl }}">Published paper</a> | <a href="{{ post.slidesurl }}">Preprint/Open Acess</a></p>
     {% elsif post.paperurl %}
       <p><a href=" {{ post.paperurl }} ">Preprint/Open Access</a></p>
     {% elsif post.slidesurl %}

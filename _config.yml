@@ -24,7 +24,7 @@ author:
   avatar           : "photo_webpage.jpg"
   name             : "Fabien Lespagnol"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher at Institut Montpellierain Alexander Grothendieck"
+  bio              : "Postdoctoral researcher at IMAG / Inria Angus team"
   location         : "Montpellier"
   employer         : "IMAG"
   uri              : # URL
@@ -79,7 +79,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+  preprints:
+    title: 'Preprints'
   conferences:
     title: 'Conference Papers'
   thesis:

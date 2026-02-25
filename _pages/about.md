@@ -10,12 +10,13 @@ redirect_from:
 Fabien Lespagnol
 -
 Postdoctoral researcher  
-Institut Montpellier Alexander Grothendieck
+Institut Montpellier Alexander Grothendieck  
+Inria [Angus](https://team.inria.fr/angus/) team  
 
 About me
 -
 
-I am currently a postdoctoral researcher at IMAG (Institut Mathématiques Alexander Grothendieck), where my research focuses on the analysis of partial differential equations for multi-fluid flows, with a particular emphasis on compressible Navier-Stokes equations for the modeling and simulation of bubbly flows.
+I am currently a postdoctoral researcher at IMAG (Institut Mathématiques Alexander Grothendieck) and member of the Inria team Angus, where my research focuses on the analysis of partial differential equations for multi-fluid flows, with a particular emphasis on compressible Navier-Stokes equations for the modeling and simulation of bubbly flows.
 
 I completed my PhD under a joint supervision program between Politecnico di Milano and Inria Paris. My work involved the modeling, mathematical analysis, and finite element resolution of problems involving slender structures immersed in three-dimensional fluid.
 

@@ -110,15 +110,18 @@ blockquote {
 }
 
 /* links */
-
 a {
-  &:focus {
-    @extend %tab-focus;
-  }
+  text-decoration: none;
 
   &:hover,
   &:active {
     outline: 0;
+    text-decoration: none;  // still none on hover/active
+  }
+
+  &:focus {
+    @extend %tab-focus;
+    text-decoration: none;  // none while focused
   }
 }
 

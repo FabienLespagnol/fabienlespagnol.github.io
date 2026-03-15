@@ -1,4 +1,4 @@
-/* ==========================================================================
+        /* ==========================================================================
    SINGLE PAGE/POST
    ========================================================================== */
 
@@ -37,7 +37,8 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
-
+  font-size: $type-size-2;
+  font-weight: bold;
   & + .page__meta {
     margin-top: -0.5em;
   }
@@ -56,7 +57,7 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+     font-size: $type-size-4;
   }
 
   /* paragraph indents */
@@ -73,7 +74,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -189,7 +190,29 @@
     color: #fff;
     text-decoration: none;
   }
+} 
+
+/* Contact info block */
+.contact-info {
+  background: #f9f9f9;
+  padding: 1em 1.5em;
+  border-radius: 8px;
+  margin: 1.5em 0;
+
+  .label {
+    font-weight: 600;
+    color: #1565C0;
+    border-bottom: 1px solid #1565C0;
+    padding-bottom: 1px;
+    margin-right: 0.3em;
+  }
+
+  p {
+    margin: 0.3em 0;
+  }
 }
+
+
 
 /*
    Social sharing

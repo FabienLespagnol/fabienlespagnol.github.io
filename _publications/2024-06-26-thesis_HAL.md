@@ -5,5 +5,6 @@ category: thesis
 permalink: /publication/2024-06-26-thesis_HAL
 date: 2024-06-26
 venue: 'HAL'
+authors: 'Fabien Lespagnol'
 slidesurl: 'https://theses.hal.science/THESES-SU/tel-04660387'
 ---

@@ -7,29 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-Fabien Lespagnol
--
-Postdoctoral researcher  
-Institut Montpellier Alexander Grothendieck  
-Inria [Angus](https://team.inria.fr/angus/) team  
+<p class="page__title"> Welcome ! <p>
 
-About me
--
+<div class="page__content">
 
-I am currently a postdoctoral researcher at IMAG (Institut Mathématiques Alexander Grothendieck) and member of the Inria team Angus, where my research focuses on the analysis of partial differential equations for multi-fluid flows, with a particular emphasis on compressible Navier-Stokes equations for the modeling and simulation of bubbly flows.
+<p> I am currently a postdoctoral researcher at <a href="https://imag.umontpellier.fr">IMAG</a> (Institut Montpellierain Alexander Grothendieck) and member of the <a href="https://team.inria.fr/angus/">INRIA ANGUS</a> team where I work with <a href="https://hillairet.perso.math.cnrs.fr/">Matthieu Hillairet</a> and <a href="https://seguin.perso.math.cnrs.fr/">Nicolas Seguin</a>. My research focuses on the analysis of partial differential equations for multiphase and multi-fluid flows, with particular interest on compressible Navier-Stokes equations for the modeling and simulation of bubbly flows. </p>
 
-I completed my PhD under a joint supervision program between Politecnico di Milano and Inria Paris. My work involved the modeling, mathematical analysis, and finite element resolution of problems involving slender structures immersed in three-dimensional fluid.
+<p> I completed my PhD under a joint supervision program between the <a href="https://mox.polimi.it">MOX</a> laboratory of Politecnico di Milano and the <a href="https://team.inria.fr/commedia/">INRIA COMMEDIA</a> team. My work involved the modeling, mathematical analysis, and finite element resolution of problems involving slender structures immersed in three-dimensional fluid. </p>
 
-Contact information
--
 
-<u>Office:</u>  
-Campus Triolet  
-Bat. 9 , 121
+<h2>Contact Information</h2>
 
-<u>Adress:</u>  
-IMAG, Université de Montpellier  
-Place Eugène Bataillon 34095 Montpellier Cedex 5
+<div class="contact-info">
+  <p><span class="label">Office:</span> Campus Triolet, Bat. 9, 121</p>
+  <p><span class="label">Address:</span> IMAG, Université de Montpellier, Place Eugène Bataillon 34095 Montpellier Cedex 5</p>
+  <p><span class="label">Mail:</span> fabien(dot)lespagnol(at)umontpellier.fr</p>
+</div>
 
-<u>Mail:</u>  
-fabien(dot)lespagnol(at)umontpellier.fr                             
+</div>

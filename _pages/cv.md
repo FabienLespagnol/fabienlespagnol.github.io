@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV (PDF)](/pdf/CV.pdf)
+Download CV (PDF) [French](/pdf/CV_French.pdf), [English](/pdf/CV_English.pdf)
